@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Persian</title>
-    <link>https://www.example.com/categories/</link>
+    <link>http://LanceSiscoTestBlog.netlify.app/categories/</link>
     <description>Recent content in Categories on Persian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://LanceSiscoTestBlog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Green Tree</title>
-      <link>https://www.example.com/categories/green-tree/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/categories/green-tree/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/categories/green-tree/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/categories/green-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nature</title>
-      <link>https://www.example.com/categories/nature/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/categories/nature/</link>
       <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/categories/nature/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inspire</title>
-      <link>https://www.example.com/categories/inspire/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/categories/inspire/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/categories/inspire/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/categories/inspire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tree</title>
-      <link>https://www.example.com/categories/tree/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/categories/tree/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/categories/tree/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/categories/tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>https://www.example.com/categories/writing/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/categories/writing/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/categories/writing/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/categories/writing/</guid>
       <description></description>
     </item>
     

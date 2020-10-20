@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Persian</title>
-    <link>https://www.example.com/tags/</link>
+    <link>http://LanceSiscoTestBlog.netlify.app/tags/</link>
     <description>Recent content in Tags on Persian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://LanceSiscoTestBlog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>green</title>
-      <link>https://www.example.com/tags/green/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/green/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/green/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/green/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tree</title>
-      <link>https://www.example.com/tags/tree/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/tree/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/tree/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thumb</title>
-      <link>https://www.example.com/tags/thumb/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/thumb/</link>
       <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/thumb/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/thumb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>top</title>
-      <link>https://www.example.com/tags/top/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/top/</link>
       <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/top/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/top/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>https://www.example.com/tags/video/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/video/</link>
       <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/video/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>book</title>
-      <link>https://www.example.com/tags/book/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/book/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/book/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inspire</title>
-      <link>https://www.example.com/tags/inspire/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/inspire/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/inspire/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/inspire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>memo</title>
-      <link>https://www.example.com/tags/memo/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/memo/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/memo/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/memo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nature</title>
-      <link>https://www.example.com/tags/nature/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/nature/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/nature/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new</title>
-      <link>https://www.example.com/tags/new/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/new/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/new/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nice</title>
-      <link>https://www.example.com/tags/nice/</link>
+      <link>http://LanceSiscoTestBlog.netlify.app/tags/nice/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.example.com/tags/nice/</guid>
+      <guid>http://LanceSiscoTestBlog.netlify.app/tags/nice/</guid>
       <description></description>
     </item>
     
