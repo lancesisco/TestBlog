@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://LanceSiscoTestBlog.netlify.com"
+baseURL = "http://LanceSiscoTestBlog.netlify.app"
 title = "Persian"
 theme = "persian-hugo"
 languageName = "En"
